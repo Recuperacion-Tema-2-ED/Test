@@ -1,3 +1,5 @@
+// Cambio introducido en Editor
+
 public class Editor {
     private String nombreEditor;
 
@@ -9,3 +11,5 @@ public class Editor {
         this.nombreEditor = nombreEditor;
     }
 }
+
+// Cambio introducido en Editor
